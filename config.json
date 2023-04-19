@@ -1,15 +1,18 @@
 {
     "TARGETS": [
-        "https://real.de",
-        "https://lidl.de",
-        "https://kfzteile24.de",
+        "https://osipenkov.ru",
+        "https://convertmonster.ru",
+        "https://prometriki.ru",
+        "https://simoahava.com",
         "https://measureschool.com",
-        "https://de.omio.com",
-        "https://sport1.de",
-        "https://marketingplatform.google.com/about/"
+        "https://analyticsmania.com",
+        "https://thyngster.com",
+        "https://skillbox.ru",
+        "https://ppc.world",
+        "https://elama.ru"
     ],
     "TAG_MANAGER_BASEURL": "https://www.googletagmanager.com/gtm.js?id=",
     "GITHUB_REPO": "gtm-container-watch",
-    "GITHUB_OWNER": "dustinrecko",
+    "GITHUB_OWNER": "clickside",
     "GITHUB_TRACKING_BRANCH": "tracking"
 }
